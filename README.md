@@ -67,6 +67,7 @@ In-case, there is need to download dataset then use either of the given links.
 * seaborn
 * jupyter notebook
 * jupyter lab
+* textblob
 
 
 ## Install dependencies
@@ -111,7 +112,7 @@ seaborn:          $ sudo pip install seaborn
 jupyter notebook: $ sudo apt-get -y install ipython ipython-notebook
                   $ sudo -H pip install jupyter
 jupyter lab       $ sudo pip install jupyterlab
-
+textblob          $ sudo pip install textblob
 ```                  
 
 ##### Commands for installing pycharm
@@ -177,10 +178,11 @@ scikit-learn:     In-built installed with anaconda
 scikit-surprise:  $ conda install -c conda-forge scikit-surprise
 Pandas:           In-built installed with anaconda
 matplotlib:       In-built installed with anaconda 
-seaborn:          $ In-built installed with anaconda
-jupyter notebook: $ In-built installed with anaconda
-                  $ In-built installed with anaconda
-jupyter lab       $ In-built installed with anaconda
+seaborn:          In-built installed with anaconda
+jupyter notebook: In-built installed with anaconda
+                  In-built installed with anaconda
+jupyter lab:      In-built installed with anaconda
+textblob:         $ conda install -c conda-forge textblob 
 ```       
 
 
