@@ -193,6 +193,6 @@ textblob:         $ conda install -c conda-forge textblob
 
 * Step 2: Install `.exe` file.
 
-## Code credit
+<!--## Code credit-->
 
-Code credits for this code go to [Rounak Banik](https://github.com/rounakbanik) I've merely created a wrapper and necessary changes to get people started.
+<!--Code credits for this code go to [Rounak Banik](https://github.com/rounakbanik) I've merely created a wrapper and necessary changes to get people started.-->
