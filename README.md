@@ -184,6 +184,15 @@ jupyter notebook: In-built installed with anaconda
 jupyter lab:      In-built installed with anaconda
 textblob:         $ conda install -c conda-forge textblob 
 ```       
+##### Issues with installing surprise package
+* If you are facing issue for installing surprise then try the following links which can help you.
+* If conda is not working then try to install surprise using pip
+* See this [installation instructions](https://github.com/NicolasHug/Surprise#installation--usage)
+* See these links if you have any issues.
+    * [link 1](https://github.com/NicolasHug/Surprise/issues/89)
+    * [link 2](https://github.com/NicolasHug/Surprise/issues/99)
+    * [link 3](https://github.com/NicolasHug/Surprise/issues/21)
+    * [link 4](https://groups.google.com/a/continuum.io/forum/#!topic/anaconda/yLH46ilPQeo)
 
 
 ##### Install Pycharm IDE
